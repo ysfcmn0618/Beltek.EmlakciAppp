@@ -4,7 +4,38 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+            //var myHouse = new House();
+            //myHouse.floorNo = 1;
+            //myHouse.roomCount = 3;
+            //myHouse.area = 125;
+            //myHouse.district = "Ali Ersoy";
+
+            //Console.WriteLine(myHouse.HouseInformation());
+
+            //var house2 = new House { area = 120, district = "Yenimahalle", roomCount = 4, floorNo = 7 };
+
+            //Console.WriteLine(house2.HouseInformation());
+
+            var house=new House();
+
+            Console.Write("Evin Semtini giriniz :");
+            house.district=Console.ReadLine();
+            Console.Write("Kat numarasını giriniz :");
+            house.floorNo=int.Parse(Console.ReadLine());
+            Console.Write("Oda sayısını giriniz :");
+            house.roomCount=int.Parse(Console.ReadLine());
+            Console.Write("Evin net alanını giriniz : ");
+            house.area=int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Girdiğiniz ev bilgileri : {house.HouseInformation()}");
+
         }
+
+        
+
+
     }
 }
+//static : Bir üyenin class a ait olması isteniyorsa static tanımlanır nesneye ait olması isteniyorsa static tanımlanmaz
+//statick olursa erişim referansı class üzerinden olur .
