@@ -1,4 +1,6 @@
-﻿namespace Beltek.EmlakciApp
+﻿using Beltek.EmlakciLib;
+
+namespace Beltek.EmlakciApp
 {
     internal class Program
     {
@@ -37,5 +39,7 @@
 
     }
 }
+//static : Bir üyenin class a ait olması isteniyorsa static tanımlanır nesneye ait olması isteniyorsa static tanımlanmaz
+//statick olursa erişim referansı class üzerinden olur .
 //static : Bir üyenin class a ait olması isteniyorsa static tanımlanır nesneye ait olması isteniyorsa static tanımlanmaz
 //statick olursa erişim referansı class üzerinden olur .
