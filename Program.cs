@@ -19,25 +19,34 @@ namespace Beltek.EmlakciApp
 
             //Console.WriteLine(house2.HouseInformation());
 
-            var house = new House();
+            //var house = new House();
+            //var evim = new House();
+            //Console.WriteLine(House.Sayac);
 
-            Console.Write("Evin Semtini giriniz :");
-            house.Semt=Console.ReadLine();
-            Console.Write("Kat numarasını giriniz :");
-            house.KatNo=int.Parse(Console.ReadLine());
-            Console.Write("Oda sayısını giriniz :");
-            house.OdaSayisi= int.Parse(Console.ReadLine());
-            //Console.Write("Evin net alanını giriniz : ");
-            //house.Buyukluk(int.Parse(Console.ReadLine()));
+            //Console.Write("Evin Semtini giriniz :");
+            //house.Semt=Console.ReadLine();
+            //Console.Write("Kat numarasını giriniz :");
+            //house.KatNo=int.Parse(Console.ReadLine());
+            //Console.Write("Oda sayısını giriniz :");
+            //house.OdaSayisi= int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Girdiğiniz ev bilgileri : {house.HouseInformation()}");
 
+            //Console.WriteLine($"Girdiğiniz ev bilgileri : {house.HouseInformation()}");
+
+            KiralikEv ke = new();
+            ke.Kira = 500;
+            ke.Alan = 130;
+            ke.OdaSayisi = 4;
+            ke.Depozito = 200;
+            ke.Semt = "Gazi";
+            ke.KatNo = 3;
+            Console.WriteLine(ke.HouseInformation());
         }
 
 
-
-
+        
     }
+        
 }
 //static : Bir üyenin class a ait olması isteniyorsa static tanımlanır nesneye ait olması isteniyorsa static tanımlanmaz
 //statick olursa erişim referansı class üzerinden olur .
