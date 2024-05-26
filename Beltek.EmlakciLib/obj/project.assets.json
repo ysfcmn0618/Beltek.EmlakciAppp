@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yusuf\\Source\\Repos\\Beltek.EmlakciLib\\Beltek.EmlakciLib.csproj",
+      "projectUniqueName": "C:\\Users\\yusuf\\source\\repos\\Beltek.EmlakciLib\\Beltek.EmlakciLib\\Beltek.EmlakciLib.csproj",
       "projectName": "Beltek.EmlakciLib",
-      "projectPath": "C:\\Users\\yusuf\\Source\\Repos\\Beltek.EmlakciLib\\Beltek.EmlakciLib.csproj",
+      "projectPath": "C:\\Users\\yusuf\\source\\repos\\Beltek.EmlakciLib\\Beltek.EmlakciLib\\Beltek.EmlakciLib.csproj",
       "packagesPath": "C:\\Users\\yusuf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yusuf\\Source\\Repos\\Beltek.EmlakciLib\\obj\\",
+      "outputPath": "C:\\Users\\yusuf\\source\\repos\\Beltek.EmlakciLib\\Beltek.EmlakciLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yusuf\\AppData\\Roaming\\NuGet\\NuGet.Config",

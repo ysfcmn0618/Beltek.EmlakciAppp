@@ -23,7 +23,7 @@ namespace Beltek.EmlakciLib
         private string semt;
         private int alan;
         private int katNo;
-        static int sayac;//Heap de Kaç adet House class ımızın olduğunu takip etmek için oluşturduğumuz field
+        static int sayac;//Heap de Kaç adet House class ımızın olduğunu takip etmek için oluşturduğumuz field deneme
 
         public int Alan
         {
