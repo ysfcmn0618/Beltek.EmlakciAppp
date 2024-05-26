@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beltek.EmlakciApp", "Beltek.EmlakciApp.csproj", "{F64FED25-ABF1-433C-A258-303BEA367D25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beltek.EmlakciLib", "..\Beltek.EmlakciLib\Beltek.EmlakciLib.csproj", "{DCDC96B4-453C-4A80-AE12-0A2A0D29069B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beltek.EmlakciLib", "..\Beltek.EmlakciLib\Beltek.EmlakciLib.csproj", "{DCDC96B4-453C-4A80-AE12-0A2A0D29069B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
