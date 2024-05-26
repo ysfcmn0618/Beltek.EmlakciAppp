@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beltek.EmlakciApp", "Beltek.EmlakciApp.csproj", "{F64FED25-ABF1-433C-A258-303BEA367D25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beltek.EmlakciLib", "..\BeltekEmlakciLib\Beltek.EmlakciLib.csproj", "{7791ABE2-BDF7-4D98-BB9C-8C49B77EF02F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beltek.EmlakciLib", "..\Beltek.EmlakciLib\Beltek.EmlakciLib.csproj", "{DCDC96B4-453C-4A80-AE12-0A2A0D29069B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{F64FED25-ABF1-433C-A258-303BEA367D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F64FED25-ABF1-433C-A258-303BEA367D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F64FED25-ABF1-433C-A258-303BEA367D25}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7791ABE2-BDF7-4D98-BB9C-8C49B77EF02F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7791ABE2-BDF7-4D98-BB9C-8C49B77EF02F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7791ABE2-BDF7-4D98-BB9C-8C49B77EF02F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7791ABE2-BDF7-4D98-BB9C-8C49B77EF02F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDC96B4-453C-4A80-AE12-0A2A0D29069B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDC96B4-453C-4A80-AE12-0A2A0D29069B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDC96B4-453C-4A80-AE12-0A2A0D29069B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDC96B4-453C-4A80-AE12-0A2A0D29069B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

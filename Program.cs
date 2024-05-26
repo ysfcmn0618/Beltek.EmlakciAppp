@@ -19,22 +19,22 @@ namespace Beltek.EmlakciApp
 
             //Console.WriteLine(house2.HouseInformation());
 
-            var house=new House();
+            var house = new House();
 
             Console.Write("Evin Semtini giriniz :");
-            house.district=Console.ReadLine();
+            house.Semt=Console.ReadLine();
             Console.Write("Kat numarasını giriniz :");
-            house.floorNo=int.Parse(Console.ReadLine());
+            house.KatNo=int.Parse(Console.ReadLine());
             Console.Write("Oda sayısını giriniz :");
-            house.roomCount=int.Parse(Console.ReadLine());
-            Console.Write("Evin net alanını giriniz : ");
-            house.area=int.Parse(Console.ReadLine());
+            house.OdaSayisi= int.Parse(Console.ReadLine());
+            //Console.Write("Evin net alanını giriniz : ");
+            //house.Buyukluk(int.Parse(Console.ReadLine()));
 
             Console.WriteLine($"Girdiğiniz ev bilgileri : {house.HouseInformation()}");
 
         }
 
-        
+
 
 
     }

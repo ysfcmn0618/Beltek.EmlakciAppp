@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BeltekEmlakciLib\Beltek.EmlakciLib.csproj" />
+    <ProjectReference Include="..\Beltek.EmlakciLib\Beltek.EmlakciLib.csproj" />
   </ItemGroup>
 
 </Project>
