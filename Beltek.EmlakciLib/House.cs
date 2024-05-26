@@ -2,14 +2,15 @@
 
 namespace Beltek.EmlakciLib
 {
-    public class House
+    public abstract class House
     {
-
-        public House()
+        
+        protected House()
         {
+            Console.WriteLine("house constructor çalıştı ");
             sayac++;
         }
-        public House(int odaSayisi, int katNo, int alan, string semt)
+        protected House(int odaSayisi, int katNo, int alan, string semt)
         {
             this.OdaSayisi = odaSayisi;
             this.KatNo = katNo;

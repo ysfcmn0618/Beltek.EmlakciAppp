@@ -7,3 +7,13 @@ C:\Users\yusuf\Source\Repos\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.Em
 C:\Users\yusuf\Source\Repos\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.csproj.CoreCompileInputs.cache
 C:\Users\yusuf\Source\Repos\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.dll
 C:\Users\yusuf\Source\Repos\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.pdb
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\bin\Debug\netstandard2.1\Beltek.EmlakciLib.deps.json
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\bin\Debug\netstandard2.1\Beltek.EmlakciLib.dll
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\bin\Debug\netstandard2.1\Beltek.EmlakciLib.pdb
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.sourcelink.json
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.dll
+C:\Users\yusuf\source\repos\Beltek.EmlakciLib\Beltek.EmlakciLib\obj\Debug\netstandard2.1\Beltek.EmlakciLib.pdb

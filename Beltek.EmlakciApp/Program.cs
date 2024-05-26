@@ -41,6 +41,8 @@ namespace Beltek.EmlakciApp
             ke.Semt = "Gazi";
             ke.KatNo = 3;
             Console.WriteLine(ke.HouseInformation());
+
+         
         }
 
 
