@@ -8,7 +8,7 @@ namespace Beltek.EmlakciLib
     {
         public SatilikEv()
         {
-          
+
         }
         public SatilikEv(int odaSayisi, int katNo, int alan, string semt, double satisFiyatı) : base(odaSayisi, katNo, alan, semt)
         {
@@ -16,7 +16,11 @@ namespace Beltek.EmlakciLib
         }
         public double SatisFiyat { get; set; }
 
-        public new string HouseInformation()
+        //public new string HouseInformation()
+        //{
+        //    return $"{base.HouseInformation()}\n Satış Fiyatı : {SatisFiyat}";
+        //}
+        public override string HouseInformation()
         {
             return $"{base.HouseInformation()}\n Satış Fiyatı : {SatisFiyat}";
         }

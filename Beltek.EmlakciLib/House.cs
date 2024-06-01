@@ -5,12 +5,12 @@ namespace Beltek.EmlakciLib
     public abstract class House
     {
         
-        protected House()
+        public House()
         {
             Console.WriteLine("house constructor çalıştı ");
             sayac++;
         }
-        protected House(int odaSayisi, int katNo, int alan, string semt)
+        public House(int odaSayisi, int katNo, int alan, string semt)
         {
             this.OdaSayisi = odaSayisi;
             this.KatNo = katNo;
@@ -57,7 +57,7 @@ namespace Beltek.EmlakciLib
         public int KatNo { get => katNo; set => katNo = value; }
         public static int Sayac { get => sayac; }
 
-        public string HouseInformation()
+        public virtual string HouseInformation()
         {
             return $"\nOda sayısı : {this.OdaSayisi} \nKat No:{this.KatNo} \nBüyüklük : {this.Buyukluk} \nAlan: {this.Alan} \nSemt:{this.Semt}";
         }

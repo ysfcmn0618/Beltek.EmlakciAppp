@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Beltek.EmlakciLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9c702454f09add28f7b10c162fd91e33efa6498")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a26120e64b8cbb7573220782a9a150ff2b4bc77")]
 [assembly: System.Reflection.AssemblyProductAttribute("Beltek.EmlakciLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Beltek.EmlakciLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
